@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.skill-bar {
+    width: 200px; /* Initial width of the skill bar */
+    height: 30px;
+    /* background-color: #ccc;*/
+    margin-bottom: 10px;
+    transition: width 0.2s ease; /* Add transition for smooth animation */
+    border-radius: 3px;
+}
+
+.skill-bar:hover {
+    width: calc(var(--level) * 2px); /* Calculate the width based on the data-level attribute */
+}
+.skill-high {
+    background-color: #00cc66; /* High skill level color */
+}
+
+.skill-medium {
+    background-color: #ffcc00; /* Medium skill level color */
+}
+
+.skill-low {
+    background-color: #ff6666; /* Low skill level color */
+}
+
+
+
+
+
+
+
+
