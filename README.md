@@ -1,1 +1,1 @@
-This project contains the HTML, CSS, and JavaScript files for my personal resume website. The HTML file (resume.html) contains the structure and content of the website, while the CSS file (resume.css) provides the styling and layout. The JavaScript file (resume.js) adds interactivity and functionality of website.
+
