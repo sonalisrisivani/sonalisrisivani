@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-
 <!-- Welcome Message -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Welcome Gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif " alt="Welcome Gif" width="300" height="200">
 </p>
 
 ---
@@ -119,19 +118,10 @@ If you like my work and want to support me, consider sponsoring me! Your support
   </a>
 </div>
 
----
-
-### 🎉 Fun Time!
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" alt="Fun GIF" width="300">
-</div>
-
-Because every developer needs a bit of fun while coding! 😉 
----
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding Gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="Coding Gif" width="300" height="200">
 </p>
 
 
