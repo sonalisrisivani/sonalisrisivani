@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- Welcome Message -->
 <p align="center">
-  <img src="https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif " alt="Welcome Gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif" alt="Welcome Gif" width="300" height="200">
 </p>
 
 ---
