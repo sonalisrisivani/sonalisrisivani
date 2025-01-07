@@ -72,4 +72,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisrisivani&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
+### 👀 Profile Views:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonalisrisivani&style=flat-square&color=blue" alt="Profile Views">
+</div>
 
