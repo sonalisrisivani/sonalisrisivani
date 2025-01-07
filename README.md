@@ -96,19 +96,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>🔗 Connect with me:</h3>
-
-<p>
-  <a href="https://github.com/sonalisrisivani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sonalisrisivani-black?style=for-the-badge&logo=github" alt="GitHub Badge">
-  </a>
-  <a href="mailto:sonalisrisivani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sonalisrisivani-red?style=for-the-badge&logo=gmail" alt="Email Badge">
-  </a>
-</p>
-
----
-
 ### 💖 Support My Projects
 If you like my work and want to support me, consider sponsoring me! Your support helps me to keep creating and maintaining amazing projects.  
 
@@ -118,7 +105,25 @@ If you like my work and want to support me, consider sponsoring me! Your support
   </a>
 </div>
 
+---
 
+<h3>🔗 Connect with me:</h3>
+
+<p>
+  <a href="https://github.com/sonalisrisivani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sonalisrisivani-black?style=for-the-badge&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="mailto:sonalisrisivani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sonalisrisivani-red?style=for-the-badge&logo=gmail" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/gsss/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+</p>
+
+
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="Coding Gif" width="300" height="200">
@@ -126,7 +131,7 @@ If you like my work and want to support me, consider sponsoring me! Your support
 
 
 
-
+---
 
 
 
