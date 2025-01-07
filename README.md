@@ -118,13 +118,34 @@ If you like my work and want to support me, consider sponsoring me! Your support
     <img src="https://img.shields.io/badge/Sponsor%20Me-✨-blueviolet?style=for-the-badge&logo=github-sponsors" alt="Sponsor Me">
   </a>
 </div>
- 
+
+---
+
+### 🎉 Fun Time!
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" alt="Fun GIF" width="300">
+</div>
+
+Because every developer needs a bit of fun while coding! 😉 
 ---
 
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding Gif" width="300" height="200">
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
