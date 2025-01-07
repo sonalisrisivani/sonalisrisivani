@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalisrisivani&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 <h2>🛠️ My Skill Set:</h2>
@@ -77,10 +79,6 @@ Here are some ideas to get you started:
   <tr>
     <td><b>Operating Systems</b></td>
     <td>Windows | Kali Linux | Linux</td>
-  </tr>
-  <tr>
-    <td><b>Soft Skills</b></td>
-    <td>Team-work | Responsiveness | Quick Learner</td>
   </tr>
 </table>
 
