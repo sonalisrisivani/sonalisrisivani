@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 
 <h1> Personal Profile : </h1>
+
+
+# 3D Model Viewer
+
+Click the link below to view the interactive 3D model:
+
+[View 3D Model](https://github.com/sonalisrisivani/sonalisrisivani/3d.html)
+
+![Preview of 3D Model](https://via.placeholder.com/150) <!-- Replace with an actual screenshot of your model -->
