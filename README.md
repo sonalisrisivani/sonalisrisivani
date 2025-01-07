@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/sonalisrisivani" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-sonalisrisivani-black?style=for-the-badge&logo=github" alt="GitHub Badge">
   </a>
-  <a href="mailto:sonalisrisivani@example.com" target="_blank">
+  <a href="mailto:sonalisrisivani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-sonalisrisivani-red?style=for-the-badge&logo=gmail" alt="Email Badge">
   </a>
 </p>
@@ -58,3 +58,18 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding Gif" width="300" height="200">
 </p>
+
+
+
+
+
+
+
+### 📊 My GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalisrisivani&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisrisivani&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+
