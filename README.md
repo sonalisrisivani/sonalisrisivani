@@ -16,20 +16,23 @@ Here are some ideas to get you started:
 -->
 
 <!-- Welcome Message -->
+<!---
 <p align="center">
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="Welcome Gif" width="300" height="200">
 </p>
+-->
 
 ---
 
 <h2>👤 Profile :</h2>
 
 <ul>
-  <li><b>Name:</b> Sonali</li>
+  <li><b>Pronouns:</b> She/Her</li>
+  <li><b>Title:</b> Final year Engineering Student in CSE </li>
   <li><b>Passion:</b> Giving life to my thoughts </li>
   <li><b>Interests:</b> Coding, Design, and Building Unique Projects</li>
   <li><b>Fun Fact:</b> Started building websites (using WordPress during covid-19 ) cos i found it cool and then fell in love with its process and product. !</li>
-  <li><b>Motto: </b> A passionate developer who sees skills as a means to help others. My goal is to create meaningful tools and resources that positively impact lives, often as an unseen but valuable presence in people's everyday routines.
+  <li><b>Motto:</b> A passionate developer who sees skills as a means to help others. My goal is to create meaningful tools and resources that positively impact lives, often as an unseen but valuable presence in people's everyday routines.
 </li>
 </ul>
 
