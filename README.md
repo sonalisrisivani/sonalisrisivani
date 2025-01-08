@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
----
 
 <h2>👤 Profile :</h2>
 
