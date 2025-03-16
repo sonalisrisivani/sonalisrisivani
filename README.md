@@ -123,7 +123,7 @@ If you like my work and want to support me, consider sponsoring me! Your support
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="https://huggingface.co/sonali21" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging-Face-Connect%20with%20me-yellow?style=for-the-badge&logo=hugging face" alt="Hugging face Badge">
+    <img src="https://img.shields.io/badge/HuggingFace-Connect%20with%20me-yellow?style=for-the-badge&logo=hugging face" alt="Hugging face Badge">
   </a>
 </p>
 
