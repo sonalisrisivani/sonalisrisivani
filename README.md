@@ -70,6 +70,10 @@ Here are some ideas to get you started:
     <td>Firebase | Azure</td>
   </tr>
   <tr>
+    <td><b>FrameWorks</b></td>
+    <td>MERN | Spring Boot | Express | React | Flask | Flutter |</td>
+  </tr>
+  <tr>
     <td><b>Design</b></td>
     <td>Figma | Canva | WordPress | MS Word | Dora AI</td>
   </tr>
