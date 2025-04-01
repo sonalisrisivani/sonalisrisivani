@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h3>🌟 Current Projects:</h3>
 
 - 🚀 Working on <b>interactive web apps</b> and exploring <b>3D models</b>.
-- 📚 Learning more about <b>JavaScript, GitHub Pages</b>, and modern web design.
+- 📚 Learning more about <b>Flutter</b>.
 
 ---
 
