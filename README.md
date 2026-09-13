@@ -1,27 +1,5 @@
 ## Hi there 👋
 <a href="https://sonalisrisivani.github.io/portfolio/"> Checkout here </a>
-<!--
-**sonalisrisivani/sonalisrisivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Welcome Message -->
-<!---
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="Welcome Gif" width="300" height="200">
-</p>
--->
-
 
 <h2>👤 Profile :</h2>
 
@@ -35,18 +13,12 @@ Here are some ideas to get you started:
 </li>
 </ul>
 
-
-
 ---
 
 <h3>🌟 Current Projects:</h3>
 
 - 🚀 Working on <b>interactive web apps</b> and exploring <b>3D models</b>.
 - 📚 Learning more about <b>Flutter</b>.
-
----
-
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonalisrisivani&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -131,54 +103,17 @@ If you like my work and want to support me, consider sponsoring me! Your support
   </a>
 </p>
 
-
-
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="Coding Gif" width="300" height="200">
-</p>
-
-
+![GitHub Activity Graph](https://ghchart.rshah.org/009A22/sonalisrisivani)
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-### 📊 My GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalisrisivani&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisrisivani&layout=compact&theme=radical" alt="Top Languages">
-</div>
 
 ### 👀 Profile Views:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sonalisrisivani&style=flat-square&color=blue" alt="Profile Views">
 </div>
 
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="Coding Gif" width="300" height="200">
+</p>
