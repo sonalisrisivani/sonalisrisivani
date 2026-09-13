@@ -64,7 +64,7 @@
 </table>
 
 ---
-
+<!--
 <h2>✨ Highlights:</h2>
 
 - 💡 **Programming Expertise:** Skilled in diverse languages like **Java** and **Python**.  
@@ -72,9 +72,11 @@
 - ☁️ **Cloud Knowledge:** Experienced with **Firebase** and **Azure** for seamless integrations.  
 - 📊 **Visualization Tools:** Adept at creating insightful dashboards with **Power BI** and **Looker Studio**.  
 - 🎨 **Creative Design:** Capable of crafting designs using tools like **Figma** and **Canva**.  
+-->
+
 
 ---
-
+<!--
 ### 💖 Support My Projects
 If you like my work and want to support me, consider sponsoring me! Your support helps me to keep creating and maintaining amazing projects.  
 
@@ -83,7 +85,7 @@ If you like my work and want to support me, consider sponsoring me! Your support
     <img src="https://img.shields.io/badge/Sponsor%20Me-✨-blueviolet?style=for-the-badge&logo=github-sponsors" alt="Sponsor Me">
   </a>
 </div>
-
+-->
 ---
 
 <h3>🔗 Connect with me:</h3>
