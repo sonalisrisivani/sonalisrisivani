@@ -6,7 +6,7 @@
 <ul>
   <li><b>Title:</b> Full Stack Software Engineer | Specialist Programmer L1</li>
   <li><b>Focus:</b> Building scalable web services, backend APIs, and AI-powered applications.</li>
-  <li><b>Motto:</b> A passionate developer who sees skills as a means to help others. My goal is to create meaningful tools and resources that positively impact lives.</li>
+  <li><b>Motto:</b> Figuring out...</li>
 </ul>
 
 <h2>🛠️ Core Technical Proficiency:</h2>
