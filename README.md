@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td><b>AI & Machine Learning</b></td>
-    <td>Microsoft Semantic Kernel, TensorFlow, Keras, RAG, Hugging Face</td>
+    <td>Microsoft Semantic Kernel, RAG, HITL, MCP, A2A </td>
   </tr>
   <tr>
     <td><b>Databases & Cloud</b></td>
