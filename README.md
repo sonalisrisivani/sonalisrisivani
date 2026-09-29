@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React.js, Three.js, HTML5, CSS3</td>
+    <td>React.js, Angular, Three.js, HTML5, CSS3</td>
   </tr>
   <tr>
     <td><b>AI & Machine Learning</b></td>
